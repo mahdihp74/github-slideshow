@@ -1,6 +1,8 @@
 ---
+Here is the third changes
 layout: slide
 title: "Welcome to our new mh74 slide!"
 ---
-This is my awesome slide
+This is my third awesome slide
 Use the left arrow to go back!
+
