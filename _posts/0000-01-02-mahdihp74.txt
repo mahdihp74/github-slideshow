@@ -3,6 +3,6 @@ Here is the third changes
 layout: slide
 title: "Welcome to our new mh74 slide!"
 ---
-This is my third awesome slide
+This is my third awesome slide:tada
 Use the left arrow to go back!
 
